@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylergehm/vm/main/Azure%20VM%20Logo.jpg" alt="Azure VM Logo" style="max-width:100%;height:auto;" />
+  <<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fbeb3765-f9fd-4718-99d1-95e46a1f182a" />
+/>
 </p>
 
 <h1>Creating Windows and Linux Virtual Machines in Azure Portal</h1>
