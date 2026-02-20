@@ -1,6 +1,5 @@
 <p align="center">
   <<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fbeb3765-f9fd-4718-99d1-95e46a1f182a" />
-/>
 </p>
 
 <h1>Creating Windows and Linux Virtual Machines in Azure Portal</h1>
